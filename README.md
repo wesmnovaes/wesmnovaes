@@ -1,5 +1,15 @@
-### Hi there 👋
+### Olá, sou o Wesley, desenvolvedor e entusiasta de tecnologia 👋 
 
+<hr>
+
+Sou desenvolvedor front-end, apaixonado por aprender novas linguagens e tenho mais conhecimento em Angular, JavaScript/TypeScript além de ariscar uma ou outra SQL no Back-end.
+
+Atualmente trabalho em Hospital e Maternidade Cristo Rei.
+
+Estou aprendendo no momento ReactJS, Django.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wesmnovaes&show_icons=true&include_all_commits=true&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wesmnovaes&layout=compact&theme=radical)
 <!--
 **wesmnovaes/wesmnovaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
