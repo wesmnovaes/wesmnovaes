@@ -6,7 +6,7 @@
                                     <span>
                                                 <br>
                                                 <br>
-                                                Atualmente trabalho em: <br> <br> Hospital e Maternidade Cristo Rei 🏛️
+                                                Atualmente trabalho em: <br> <br> Hosp. e Maternidade Cristo Rei 🏛️
                                                 <br>
                                                 <br>
                                                 estudando ReactJS, Django 💡 
