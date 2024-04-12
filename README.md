@@ -1,16 +1,32 @@
 ### Olá, sou o Wesley, desenvolvedor e entusiasta de tecnologia 👋 
 <hr>
-<span>
-Sou desenvolvedor front-end, apaixonado por aprender novas linguagens e tenho mais conhecimento em Angular, JavaScript/TypeScript   além de ariscar uma ou outra SQL no Back-end.
-</span> 
+<table cellspacing="0" cellpadding="0" style="border: none;">
+            <tr>
+                        <td>
+                                    <span>
+                                                <br>
+<br>
+Atualmente trabalho em: <br>Hospital e Maternidade Cristo Rei
 <br>
 <br>
-Atualmente trabalho em Hospital e Maternidade Cristo Rei
+                                                <br>
+Estou aprendendo no<br> momento ReactJS, Django 💡 
 <br>
+Onde falar comigo? 
+
+![Static Badge](https://img.shields.io/badge/wes.mnovaes%40gmail.com-blue?style=social&logo=gmail)
+
 <br>
-Estou aprendendo no momento ReactJS, Django 💡 
-<br>
-<br>
+                                    </span>
+                        </td>
+                        <td>
+<h2>GitHub status ⚡</h2> 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wesmnovaes&hide_rank=true&hide_border=true&show_icons=true&include_all_commits=true&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wesmnovaes&layout=compact&hide_border=true&theme=radical)
+                        </td>
+            </tr>
+</table>
 <h2> 🧑🏽‍💻🚀 Tecnologias </h2>
             <div style="display:inline">
               <img width=50px; src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -30,10 +46,10 @@ Estou aprendendo no momento ReactJS, Django 💡
               <img width=35px; src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
             </div>
 <br>
-<h2>GitHub status ⚡</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wesmnovaes&show_icons=true&include_all_commits=true&layout=compact&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wesmnovaes&layout=compact&theme=radical)
+
+
+
 
 <!--
 **wesmnovaes/wesmnovaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
