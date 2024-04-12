@@ -18,7 +18,7 @@
                                                 
 ![Static Badge](https://img.shields.io/badge/wes.mnovaes%40gmail.com-blue?style=social&logo=gmail)
 <br>
-![Static Badge](https://img.shields.io/badge/%2Fin%2Fwesleymnovaes-blue?style=social&logo=linkedin&link=http%3A%2F%2Flinkedin.com%2Fin%2Fwesleymnovaes)
+![Static Badge](https://img.shields.io/badge/http%3A%2F%2Flinkedin.com%2Fin%2Fwesleymnovaes-blue?style=social&logo=linkedin&link=http%3A%2F%2Flinkedin.com%2Fin%2Fwesleymnovaes)
                                                 <br>
                                     </span>
                         </td>
