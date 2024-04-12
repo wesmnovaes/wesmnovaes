@@ -9,13 +9,14 @@
 Atualmente trabalho em: <br>Hospital e Maternidade Cristo Rei
 <br>
 <br>
-                                                <br>
-Estou aprendendo no<br> momento ReactJS, Django 💡 
+estudando ReactJS, Django 💡 
+<br>                                                
 <br>
 Onde falar comigo? 
-
+<br>
+<br>
+                                                
 ![Static Badge](https://img.shields.io/badge/wes.mnovaes%40gmail.com-blue?style=social&logo=gmail)
-
 <br>
                                     </span>
                         </td>
